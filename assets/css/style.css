@@ -34,7 +34,6 @@ textarea{
   white-space: pre-wrap;
   height: 80px;
   border-top: 1px solid white;;
-  overflow: hidden;
 }
 
 .hour {
@@ -70,18 +69,3 @@ textarea{
   font-size: 20px;
   transition: all .3s ease-in-out;
 }
-
-.img-center {margin:auto;}
-
-/*
-[class*="col-"]{
-  margin-bottom: -99999px;
-  padding-bottom: 99999px;
-}
-
- #test{
-  border-radius: 15px;
-  overflow: hidden;
-  perspective: 1px;
-  border-collapse: separate; 
-}*/
