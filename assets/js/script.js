@@ -130,9 +130,8 @@ function lockPressed(target){
 
     if (str = "Col3"){
         // User selected a lock/unlock button
-        
-    }
 
+    }
 }
 
 
@@ -191,7 +190,7 @@ var dayTimer = setInterval(function() {
 
 // Change content-editable to true if save button status is unlocked
 $("div").on( "click", function() {
-    console.log( $(this).attr("id")
+    console.log( $(this).attr("id"))
     lockPressed($(this).attr("id"))
 });
 // Update local storage and set content-editable to false on save button change to locked
