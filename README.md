@@ -15,4 +15,4 @@
 
 
 
-![Screenshot](Workday Screenshot.gif)
+![Screenshot](Workday_Screenshot.gif)
